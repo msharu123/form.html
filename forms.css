@@ -1,0 +1,20 @@
+label{
+    display:block;
+}
+form{
+    margin: 0px 350px 0px 350px;
+    background-color: blueviolet;
+    border-radius:20px;
+  padding: 20px;
+    
+}
+#bhubhu{
+    padding: 10px;
+   background-color: pink;
+}
+input[type=submit] :hover{
+background-color: brown;
+}
+body{
+    background-color: cadetblue;
+}
